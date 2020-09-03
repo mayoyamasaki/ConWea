@@ -61,15 +61,7 @@ $ python -m unittest tests/test_conwea.py
 
 ### Requirements
 
-This project is based on ```python==3.7```. The dependencies are as follow:
-```
-keras-contrib==2.0.8
-scikit-learn==0.21.3
-flair==0.4.4
-scipy=1.3.1
-gensim==3.8.1
-numpy==1.17.2
-```
+This project is based on ```python==3.7```. The dependencies are in ```requirements.txt```.
 
 ## Citation
 
